@@ -113,13 +113,6 @@ streamlit run app.py
 * Industrial equipment monitoring
 * Smart manufacturing
 * Condition-based maintenance research
-
----
-
-## ✍️ Author
-
-Mukesh Ranjan
-
 ---
 
 ## 📝 Note
